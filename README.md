@@ -154,10 +154,4 @@ You can find the tool [here](https://github.com/raspberrydeveloper/pyducky)
 
 [Ducky Script](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript)
 
-### Video tutorials
 
-[pico-ducky tutorial by **NetworkChuck**](https://www.youtube.com/watch?v=e_f9p-_JWZw)
-
-[USB Rubber Ducky playlist by **Hak5**](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0YaJslcjcI4zKI366tMBYk)
-
-[CircuitPython tutorial on the Raspberry Pi Pico by **DroneBot Workshop**](https://www.youtube.com/watch?v=07vG-_CcDG0)
